@@ -23,7 +23,7 @@
 
 | 주차 | 핵심 주제              | 이론 핵심                           | 실습 내용                    | 산출물(과제)         |
 | -- | ------------------ | ------------------------------- | ------------------------ | ----------- |
-| 1 | ETL     | URL에서 데이터를 추출-변환-로딩, [데이터플랫폼의 진화](https://github.com/ancestor9/2026_Spring_Application_Programming/blob/main/1-1_The%20Overview%20of%20Data%20Engineering%20Ecosystem.pdf) | 파이썬 [함수](https://realpython.com/defining-your-own-python-function/), [클라스/모듈](https://realpython.com/python-classes/) 강의 및 실습 | [로켓발사 이미지 ETL](https://github.com/ancestor9/2026_Spring_Application_Programming/blob/main/%5BTask_01%5D%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%A1%9C%EC%BC%93%20%EB%B0%9C%EC%82%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20ETL%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EA%B5%AC%ED%98%84.pdf), 고양이와 강아지 사진 ETL  |
+| 1 | ETL     | URL에서 데이터를 추출-변환-로딩, [데이터플랫폼의 진화](https://github.com/ancestor9/2026_Spring_Application_Programming/blob/main/1-1_The%20Overview%20of%20Data%20Engineering%20Ecosystem.pdf) | 파이썬 [함수](https://realpython.com/defining-your-own-python-function/), [클라스/모듈](https://realpython.com/python-classes/) 강의 및 실습 | [로켓발사 이미지 ETL], 모듈/패키지/라이브러리 이해 및 실습(https://github.com/ancestor9/2026_Spring_Application_Programming/blob/main/%5BTask_01%5D%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%A1%9C%EC%BC%93%20%EB%B0%9C%EC%82%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20ETL%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EA%B5%AC%ED%98%84.pdf), 고양이와 강아지 사진 ETL  |
 | 2  | 네트워크 & 웹 구조 이해 I    | Vscode 설치, 가상환경 구현 | Postman API 호출, 패킷 흐름 분석 | API 호출 리포트  |
 | 3  | 네트워크 & 웹 구조 이해 II    | Client–Server, HTTP, REST, JSON | Postman API 호출, 패킷 흐름 분석 | API 호출 리포트  |
 | 4  | Front End 개발  | Streamlit & gradio : UI 설계 구현 | python 기반 UI tools | UI 개발  |
