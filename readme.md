@@ -15,7 +15,7 @@
 - SQLlite3 혹은 MariaDB와 연동한 데이터 중심 API를 구현
 - LLM AI 서비스 앱 개발 구현
 - Figma MCP → 프론트엔드 → FastAPI → DB 전체 파이프라인을 설계
-- Cline AI를 활용해 설계-코딩-디버깅 자동화 워크플로우를 구축
+- Cline AI를 활용해 설계-코딩-디버깅 AI Agent로 자동화 워크플로우를 구축
 
 ### 반드시 개인 github를 만들어 과제를 제출하라
 
